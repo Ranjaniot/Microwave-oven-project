@@ -1,7 +1,7 @@
 # Embedded System based Microwave-oven-project in picsimlab
-Embedded system based Microwave-oven simulation in PicSimLab 
+
 The project is designed to develop empowering microwave oven simulation in PICSimLab. PICSimLab is a real time emulator of 
-development boards with integrated MPLABX/XC8 IDE compiler . PICSimLab have 
+development boards with integrated MPLABX/XC8 IDE compiler and MPLAB X IDE code purpose used . PICSimLab have 
 integration with MPLABX for programming the boards microcontrollers. As the 
 purpose of PICSimLab is to emulate real hardware it does not have any source code editing 
 support. 
