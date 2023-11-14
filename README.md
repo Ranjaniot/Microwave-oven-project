@@ -15,3 +15,8 @@ We are going to implement 4 modes.
  ! Convection Mode :- In this mode user can set the oven to pre heat for  a particular temperature and it takes3 minutes to preheat the oven. After pre heating ids done then the user can set the time as per the requirements.
 
 Start Mode :- this mode is used to any mode berake afre this mode is again restart.
+
+
+Introduction of microwave overn
+
+ A microwaveoven (commonly called a microwave) is a machine that cooks food usingmicrowaves, a type of radio wave. The idea was invented when a scientist who wasexperimenting with radio waves saw his chocolate bar, which was in his pocket, had melted. Hethen knew that radio waves could cook food and invented the microwave oven.Microwave ovens are a common kitchen appliance and are popular for reheating previouslycooked foods and cooking a variety of foods. They are also useful for rapid heating of otherwiseslowly prepared foodstuffs, which can easily burn or turn lumpy when cooked in conventionalpans, such as hot butter, fats, chocolate or porridge. Unlike conventional ovens, microwaveovens usually do not directly brown or caramelize food, since they rarely attain the necessarytemperatures to produce Maillard reactions. Exceptions occur in rare cases where the oven isused to heat frying-oil and other oily items (such as bacon), which attain far higher temperaturesthan that of boiling water.
