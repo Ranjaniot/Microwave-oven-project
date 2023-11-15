@@ -14,7 +14,7 @@ We are going to implement 4 modes.
 
  ! Convection Mode :- In this mode user can set the oven to pre heat for  a particular temperature and it takes3 minutes to preheat the oven. After pre heating ids done then the user can set the time as per the requirements.
 
-Start Mode :- this mode is used to any mode berake afre this mode is again restart.
+Start Mode :- this mode is used to any mode berake after this mode is again restart.
 
 
 Introduction of microwave overn
